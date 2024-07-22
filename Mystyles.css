@@ -1,0 +1,12 @@
+body,h1,h2,h3,ul,li{
+    margin:5;
+    padding:5;
+}
+body{
+    background-color: bisque;
+    font-family: 'Lucida Sans';
+}
+h1{color: rgb(155,175,33);}
+p{background-color: cornflowerblue;}
+ol{list-style-type:lower-alpha;}
+ul{list-style-type:square;}
